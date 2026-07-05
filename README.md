@@ -216,7 +216,7 @@ This project is developed for educational purposes only.
 # BizBook - Business Management System
 
 ## Application Preview
-
+![image alt](https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/e248adb3af2a583c312c83d1f71416d34b7b250b/bizbook-showcase.jpng.jpeg)
 ![BizBook Showcase](assets/bizbook-showcase.jpng.jpeg)
 ⭐ Thank you for visiting this project.
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/fe3b34e84f909a4fa9af0d54caf392253165f5bc/screenshot.gpg%20(2).png
@@ -228,3 +228,4 @@ https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/00a7fcfb2e3fca06ae5
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/555feb84f566bf540fc6af53765b2a9fbbff545d/screenshot.png%20(4).png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/5caa4e31e118b23d1c5823d16cd2e5e039b975ce/screenshot.png%20(5).png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/0a2ca177548d44949b099f12b90e4790dad9b0ec/screenshot.png.png
+
