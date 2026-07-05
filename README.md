@@ -218,3 +218,4 @@ This project is developed for educational purposes only.
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/fe3b34e84f909a4fa9af0d54caf392253165f5bc/screenshot.gpg%20(2).png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/4fe27918c991208a026b920b1dce36974f589a43/screenshot.gpg%20(4).png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/fe3b34e84f909a4fa9af0d54caf392253165f5bc/screenshot.gpg%20(5).png
+https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/885f2b06e439fc15a1ab91e12c4035060392cb12/screenshot.gpg.png
