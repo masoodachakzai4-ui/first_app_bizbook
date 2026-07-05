@@ -1,218 +1,125 @@
- BizBook - Business Management System
+# 📘 BizBook - Business Management System
 
-Student Information
+## Student Information
 
-**Project Name:** BizBook - Business Management System
-
-**Student Name:** MUHAMMAD Masood 
-
-Roll No: 2670
-
-Course: BS Computer Science
-
-Technology: Flutter & Dart
+- **Student Name:** Muhammad Masood
+- **Roll No:** 2670
+- **Course:** BS Computer Science
+- **Technology:** Flutter & Dart
 
 ---
 
-About the Project
+## About Project
 
-BizBook is a Flutter-based Business Management System developed as a semester project. The main purpose of this project is to learn Flutter development step by step. The application helps users manage products, customers, sales, purchases, stock, invoices, reports, and business records.
-
-The project is developed week by week, where every week introduces new Flutter concepts and adds new features to the application.
+BizBook is a Flutter-based Business Management System developed as a semester project. It is built week by week to learn Flutter and Dart. The application helps manage products, customers, sales, purchases, invoices, stock, and reports.
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Flutter
 - Dart
 - Material 3
-- Provider (State Management)
+- Provider
 - Hive Database
-- Clean Architecture
-- Repository Pattern
 
 ---
 
- Weekly Progress
+## Weekly Progress
 
-  Week 1 – Flutter Introduction
- Flutter Project Setup
- Splash Screen
- Welcome Screen
- Login Screen UI
- Basic Navigation
+### Week 1
+- Flutter Setup
+- Splash Screen
+- Welcome Screen
+- Login Screen
 
----
+### Week 2
+- Dashboard UI
+- Cards
+- GridView
+- ListView
+- Theme
 
- Week 2 – Layouts & UI
- Dashboard Screen
- Summary Cards
- Container
- Row
- Column
- Stack
- ListView
- GridView
- Icons
- Buttons
- App Theme
-
----
-
- Week 3 – Navigation
- Multi Screen Navigation
- Named Routes
- Bottom Navigation Bar
- Drawer Navigation
- Dashboard
- Products Screen
- Customers Screen
+### Week 3
+- Navigation
+- Bottom Navigation
+- Drawer
+- Products Screen
+- Customers Screen
 - Sales Screen
-- Purchases Screen
-- Reports Screen
 
----
-
- Week 4 – Forms & Validation
+### Week 4
 - Product Form
 - Customer Form
-- TextFormField
-- Dropdown Menu
-- Date Picker
 - Form Validation
+- Date Picker
 - SnackBar
-- Alert Dialog
 
----
-
- Week 5 – Models & Dynamic Lists
+### Week 5
 - Product Model
 - Customer Model
-- Dynamic Product List
-- Dynamic Customer List
-- Product Details
-- Customer Details
-- Search Products
-- Search Customers
+- Dynamic Lists
+- Search
+- Detail Screens
 
----
+### Week 6
+- Provider State Management
+- Product CRUD
+- Customer CRUD
 
- Week 6 – State Management
-- Provider Package
-- Product Provider
-- Customer Provider
-- Add Product
-- Edit Product
-- Delete Product
-- Add Customer
-- Edit Customer
-- Delete Customer
-
----
-
-Week 7 – Local Storage
-- Hive Database
-- Save Products
-- Save Customers
-- Load Data on App Start
+### Week 7
+- Hive Local Database
+- Save & Load Data
 - Repository Pattern
-- Data Persistence
 
----
-
- Week 8 – Sales Invoice
-- Invoice Model
-- Invoice Item Model
-- Create Sales Invoice
-- Multiple Products in One Invoice
-- Quantity Calculation
-- Discount Calculation
-- Total Calculation
+### Week 8
+- Sales Invoice
+- Multiple Products
 - Stock Reduction
-- Stock Validation
+- Total Calculation
 
----
-
- Week 9 – Purchase Module
-- Purchase Model
-- Purchase Invoice
-- Add Products to Purchase
-- Increase Stock
+### Week 9
+- Purchase Module
 - Purchase History
+- Stock Update
 
----
-
- Week 10 – Reports
+### Week 10
+- Reports
 - Sales Report
 - Purchase Report
 - Stock Report
-- Dashboard Statistics
-- Business Summary
 
----
- Week 11 – Search & Filter
-- Search Products
-- Search Customers
-- Filter Records
-- Sort Products
-- Improved User Experience
+### Week 11
+- Search
+- Filter
+- Sorting
 
----
-
- Week 12 – Settings
+### Week 12
+- Settings
 - User Profile
-- Settings Screen
-- Theme Settings
-- Application Preferences
 
----
-
- Week 13 – Notifications & Improvements
-- Notification UI
-- Better Dashboard
-- Performance Improvements
-- UI Enhancements
+### Week 13
+- UI Improvements
 - Bug Fixes
 
----
+### Week 14
+- Authentication
+- Login & Logout
 
- Week 14 – Authentication
-- Login Improvement
-- Logout
-- Session Handling
-- User Access Management
-
----
-
-Week 15 – Final Improvements
-- Code Optimization
-- UI Polish
+### Week 15
+- Final Improvements
 - Responsive Design
-- Error Handling
+- Testing
+
+### Week 16
+- Final Business Management System
 - Final Testing
+- Project Submission
 
 ---
 
-Week 16 – Final Project
-- Complete Business Management System
-- Product Management
-- Customer Management
-- Sales Management
-- Purchase Management
-- Invoice Management
-- Reports
-- Local Database
-- Final Testing
-- Ready for Submission
+## Main Modules
 
----
-
- Main Modules
-
-- Splash Screen
-- Welcome Screen
-- Login
 - Dashboard
 - Products
 - Customers
@@ -224,77 +131,50 @@ Week 16 – Final Project
 
 ---
 
- Project Structure
+## Project Structure
 
 ```text
 lib/
-  main.dart
-  app/
-    app.dart
-    routes.dart
-    theme.dart
-  models/
-    product.dart
-    customer.dart
-    supplier.dart
-    invoice.dart
-    purchase.dart
-    payment.dart
-  providers/
-    product_provider.dart
-    customer_provider.dart
-    invoice_provider.dart
-    purchase_provider.dart
-    payment_provider.dart
-  screens/
-    auth/
-    dashboard/
-    products/
-    customers/
-    sales/
-    purchases/
-    payments/
-    reports/
-    settings/
-  services/
-    local_database_service.dart
-    pdf_service.dart
-  widgets/
-    app_button.dart
-    app_text_field.dart
-    summary_card.dart
-    empty_state.dart
+│
+├── models/
+├── providers/
+├── screens/
+├── services/
+├── widgets/
+├── routes/
+├── utils/
+├── main.dart
 ```
 
 ---
 
-# ▶️ How to Run
+## How to Run
 
-### Clone the Repository
+Clone the project
 
 ```bash
 git clone https://github.com/masoodachakzai4-ui/first_app_bizbook.git
 ```
 
-### Open Project
+Go to project folder
 
 ```bash
 cd first_app_bizbook
 ```
 
-### Install Packages
+Install packages
 
 ```bash
 flutter pub get
 ```
 
-### Run Project
+Run the project
 
 ```bash
 flutter run
 ```
 
-### Run on Chrome
+Run on Chrome
 
 ```bash
 flutter run -d chrome
@@ -302,42 +182,35 @@ flutter run -d chrome
 
 ---
 
-# 🎯 Learning Outcomes
+## Learning Outcomes
 
-This project helped me learn:
+Through this project I learned:
 
 - Flutter Basics
 - Dart Programming
 - UI Design
 - Navigation
-- Forms
-- Validation
-- State Management
-- Local Storage
+- Forms & Validation
+- Provider State Management
+- Hive Database
 - CRUD Operations
-- Invoice Management
-- Business Logic
-- Clean Code
-- Repository Pattern
+- Business Management System Development
 
 ---
 
-# 👨‍💻 Developer
+## Developer
 
-**Name:** Masood Achakzai
+**Muhammad Masood**
 
 **Roll No:** 2670
 
-**Project:** BizBook - Business Management System
-
-**GitHub:**
-https://github.com/masoodachakzai4-ui/first_app_bizbook
+GitHub: https://github.com/masoodachakzai4-ui/first_app_bizbook
 
 ---
 
-# 📄 License
+## License
 
-This project is developed for educational and learning purposes only.
+This project is developed for educational purposes only.
 
 ---
 
