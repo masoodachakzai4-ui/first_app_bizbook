@@ -220,4 +220,4 @@ https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/4fe27918c991208a026
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/fe3b34e84f909a4fa9af0d54caf392253165f5bc/screenshot.gpg%20(5).png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/885f2b06e439fc15a1ab91e12c4035060392cb12/screenshot.gpg.png
 https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/cf963ad390429b3d30a01fc18561cb7677ca31b8/screenshot.ping.png
-
+https://github.com/masoodachakzai4-ui/first_app_bizbook/blob/00a7fcfb2e3fca06ae50786fa248891a9306cf3f/screenshot.png%20(2).png
